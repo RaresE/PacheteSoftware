@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Analysis App
+# 🍷 Wine Quality Analysis
 
 **Team Project**
 
